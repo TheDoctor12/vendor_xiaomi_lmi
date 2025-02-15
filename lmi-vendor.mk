@@ -349,7 +349,7 @@ PRODUCT_PACKAGES += \
     libgf_hal \
     libgf_hal6 \
     libipebpsstriping \
-    libmegface \
+    libmegface_vendor \
     libmialgo_ie_capture \
     libmialgo_ie_preview \
     libmialgo_image_colourkeeping \
